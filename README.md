@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Complete implementation of **core machine learning models from scratch**, addressing real-world challenges through:
+Complete implementation of **core machine learning models from scratch**, addressing challenges through:
 
 * **Multi-Layer Perceptrons (MLPs)** for classification and regression
 * **Gaussian Mixture Models (GMMs)** for image segmentation
